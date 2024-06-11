@@ -1,11 +1,14 @@
-THIS IS A FORK!
-An old version of AmpFin cuz the newest release it's laggy af...
+# AmpFin Fork
 
-this version has the following changes:
-- Playlists display the playlist image that you can set in jellyfin instead of the animated colors...
-- Changed accent color
-- Changed the icon to fit better Ios 18 dark style
+**Note: This is a fork!**
 
-  other stuff coming soon, i don't have much time so i don't know when i'll release updates, by the way i'm gonna make pull requests on the original repo of the dev and ask for these changes... i just have to find time to do that, for now there's this version that i made a couple of weeks ago
+An older version of AmpFin because the newest release is laggy as heck...
 
-original repo: https://github.com/rasmuslos/AmpFin
+This version includes the following changes:
+- Playlists now display the playlist image set in Jellyfin instead of animated colors.
+- Changed accent color.
+- Updated the icon to better fit iOS 18 dark style.
+
+More updates and changes are planned, but due to time constraints, I'm uncertain when they'll be released. However, I intend to make pull requests on the original repository of the developer to incorporate these changes. I just need to find time to do so. For now, there's this version that I created a couple of weeks ago.
+
+Original Repository: [https://github.com/rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin)
